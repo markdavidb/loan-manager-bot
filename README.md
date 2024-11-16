@@ -1,7 +1,8 @@
 # Loan Manager Bot 🤖
 
-A Telegram bot for managing personal loans with secure authentication and payment tracking.  
-Built as a practical project to enhance my knowledge in database management and async programming.
+A Telegram bot for managing loans with secure authentication and payment tracking.<br>
+Built as a practical project to enhance my knowledge in database management and async programming.<br>
+This project implements concepts from my Database and Python courses.
 <div align="center">
   
 
