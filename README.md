@@ -6,7 +6,11 @@ Built as a practical project to enhance my knowledge in database management and 
   
 
 
-https://github.com/user-attachments/assets/53823c84-f6b3-412c-abe5-01c085c6f99b
+
+
+
+https://github.com/user-attachments/assets/0b98158b-1d82-4799-8d84-81e672b58518
+
 
 
 
